@@ -6,8 +6,9 @@
 ## :book: Contents
 
 #### 1. [hello](./1.hello)
-#### 2. [How do Hello World program work](./2.How_do_hello_world_work)
-
+#### 2. Brief basics of computer
+#### 3. [How do Hello World program work](./3.How_do_hello_world_work)
+#### 4. [Variable](./4.Variable)
 
 
 ---
