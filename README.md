@@ -9,8 +9,7 @@
 #### 2. Brief basics of computer
 #### 3. [How do Hello World program work](./3.How_do_hello_world_work)
 #### 4. [Variable](./4.Variable)
-
-
+#### 5. [fmt I/O package](./5.fmt)
 ---
 ### :mega: Reference
 
